@@ -50,11 +50,11 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 3. Customers with longer tenure periods(> 24 months) have higher churn rate.
 4. Geographic trends show some states have significantly higher churn rates.
 5. Total Churn for female(1,111) was higher than male(921).
-6. Women aged *18-24* months in tenure show a significant increase in churn rate when crossing the 24-month threshold.
-7. Women over 65 years old have a *14.2%* higher churn rate compared to younger age groups.
-8. Jammu & Kashmir accounts for 59% of churned female customers, making it the highest churn region for women.
+6. Women aged **18-24** months in tenure show a significant increase in churn rate when crossing the 24-month threshold.
+7. Women over 65 years old have a **14.2%** higher churn rate compared to younger age groups.
+8. Jammu & Kashmir accounts for **59%** of churned female customers, making it the highest churn region for women.
 9. Customers with "None" as their internet type have the highest churn rate, especially in Jammu & Kashmir.
-10. *64.8%* of churned women in Jammu & Kashmir do not have an internet plan, suggesting dissatisfaction with available services or a lack of suitable options.
+10. **64.8%** of churned women in Jammu & Kashmir do not have an internet plan, suggesting dissatisfaction with available services or a lack of suitable options.
 
 ## 💡 Suggestions for Reducing Churn:
 ✔️ Introduce special loyalty offers or renewal discounts for female customers nearing 24 months of tenure.
