@@ -32,6 +32,7 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 
 1. Total churn by internet type
 2. Churn by additional services (e.g., streaming, phone service, etc.)
+   
 
 ![Image](https://github.com/user-attachments/assets/31f9deb0-3bc1-4818-885b-62ee9b58f098)
 
@@ -53,6 +54,8 @@ This dashboard identifies at-risk customers using predictive analytics to help t
   Payment method
   Contract type
   State
+
+![Image](https://github.com/user-attachments/assets/d396d750-673e-4116-b4d6-a445d1542ca1)
 ## 🔍 Key Business Insights
 Customers with month-to-month contracts have the highest churn rate.
 Online payment methods show higher churn rates compared to traditional methods.
