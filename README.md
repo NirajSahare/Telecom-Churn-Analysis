@@ -89,14 +89,13 @@ This dashboard identifies at-risk customers using predictive analytics to help t
   Contract type
   State
 
-![Image](https://github.com/user-attachments/assets/d396d750-673e-4116-b4d6-a445d1542ca1)
-
+![Image](https://github.com/user-attachments/assets/176969ac-b636-46ac-8fcc-077dc5980463)
 
 ## 🛠 Tools Used
-Power BI – Data visualization and dashboard creation
-MySQL  – EDA and Data preprocessing
-DAX – Custom measures for KPIs and calculations
+1. Power BI – Data visualization and dashboard creation
+2. MySQL  – EDA and Data preprocessing
+3. DAX – Custom measures for KPIs and calculations
 ### 🚀 How to View the Dashboard
-Download the Power BI file from this repository.
-Open the file in Power BI Desktop.
-Explore interactive visuals to gain insights.
+1. Download the Power BI file from this repository.
+2. Open the file in Power BI Desktop.
+3. Explore interactive visuals to gain insights.
