@@ -47,7 +47,7 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 ## 🔍 Key Business Insights
 1. Customers with month-to-month contracts have the highest churn rate.
 2. Online payment methods show higher churn rates compared to traditional methods.
-3. Customers with longer tenure periods(> 24 moths) have higher churn rate.
+3. Customers with longer tenure periods(> 24 months) have higher churn rate.
 4. Geographic trends show some states have significantly higher churn rates.
 
 ### 2️⃣ Churn Predictions Dashboard
