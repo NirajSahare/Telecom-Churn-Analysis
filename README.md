@@ -6,29 +6,29 @@ This Power BI project analyzes telecom customer churn to identify key factors in
 ### 1️⃣ Churn Summary Dashboard
 This dashboard provides an overview of churn trends, customer demographics, and account-related factors affecting churn.
 
-####🔹 Key Performance Indicators (KPIs)
+#### 🔹 Key Performance Indicators (KPIs)
 
 1. Total Customers
 2. New Joiners
 3. Total Churn
 4. Churn Rate
 
-####🔹 Demographic Analysis
+#### 🔹 Demographic Analysis
 
 1. Total churn by gender
 2. Churn rate by age group
    
-####🔹 Account Information
+#### 🔹 Account Information
 
 1. Churn rate by payment method
 2. Churn rate by contract type
 3. Churn rate by tenure group
 
-####🔹 Geographic Distribution
+#### 🔹 Geographic Distribution
 
 1. Churn rate in the top 5 states
 
-####🔹 Service Usage Analysis
+#### 🔹 Service Usage Analysis
 
 1. Total churn by internet type
 2. Churn by additional services (e.g., streaming, phone service, etc.)
@@ -36,12 +36,12 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 ### 2️⃣ Churn Predictions Dashboard
 This dashboard identifies at-risk customers using predictive analytics to help telecom companies take preventive measures.
 
-####🔹 Customers at Risk
+#### 🔹 Customers at Risk
 
 1. Count of predicted churners
 2. Monthly charge, total revenue, total refunds, and number of referrals for predicted churners
 
-####🔹 Predicted Churner Profile
+#### 🔹 Predicted Churner Profile
 
 1. Gender distribution of predicted churners
 2. Churn probability by:
