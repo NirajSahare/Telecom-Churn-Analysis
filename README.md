@@ -57,11 +57,15 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 10. **64.8%** of churned women in Jammu & Kashmir do not have an internet plan, suggesting dissatisfaction with available services or a lack of suitable options.
 
 ## 💡 Suggestions for Reducing Churn:
-✔️ Introduce special loyalty offers or renewal discounts for female customers nearing 24 months of tenure.
-✔️ Develop targeted retention programs for customers over 65, possibly by improving customer service and offering personalized plans.
-✔️ Investigate and conduct a survey the high churn rate in Jammu & Kashmir—potential issues like network quality, pricing, or service disruptions could be driving customers away.
-✔️ Consider door-to-door outreach to assess whether customers face network issues, affordability concerns, or lack awareness about available plans.
-✔️ Develop customized internet packages for non-internet users to encourage service adoption and reduce churn.
+ ✔️ Introduce special loyalty offers or renewal discounts for female customers nearing 24 months of tenure.
+ 
+ ✔️ Develop targeted retention programs for customers over 65, possibly by improving customer service and offering personalized plans.
+ 
+ ✔️ Investigate and conduct a survey the high churn rate in Jammu & Kashmir—potential issues like network quality, pricing, or service disruptions could be driving customers away.
+ 
+ ✔️ Consider door-to-door outreach to assess whether customers face network issues, affordability concerns, or lack awareness about available plans.
+ 
+ ✔️ Develop customized internet packages for non-internet users to encourage service adoption and reduce churn.
 
 ### 2️⃣ Churn Predictions Dashboard
 This dashboard identifies at-risk customers using predictive analytics to help telecom companies take preventive measures.
