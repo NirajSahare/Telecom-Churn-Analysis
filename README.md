@@ -33,6 +33,8 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 1. Total churn by internet type
 2. Churn by additional services (e.g., streaming, phone service, etc.)
 
+![Image](https://github.com/user-attachments/assets/31f9deb0-3bc1-4818-885b-62ee9b58f098)
+
 ### 2️⃣ Churn Predictions Dashboard
 This dashboard identifies at-risk customers using predictive analytics to help telecom companies take preventive measures.
 
