@@ -57,15 +57,18 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 10. **64.8%** of churned women in Jammu & Kashmir do not have an internet plan, suggesting dissatisfaction with available services or a lack of suitable options.
 
 ## 💡 Suggestions for Reducing Churn:
- ✔️ Introduce special loyalty offers or renewal discounts for female customers nearing 24 months of tenure.
+✔️ Introduce special loyalty offers or renewal discounts for female customers nearing 24 months of tenure.
  
- ✔️ Develop targeted retention programs for customers over 65, possibly by improving customer service and offering personalized plans.
+✔️ Develop targeted retention programs for customers over 65, possibly by improving customer service and offering personalized plans.
  
- ✔️ Investigate and conduct a survey the high churn rate in Jammu & Kashmir—potential issues like network quality, pricing, or service disruptions could be driving customers away.
+✔️ Investigate and conduct a survey the high churn rate in Jammu & Kashmir—potential issues like network quality, pricing, or service disruptions could be driving customers away.
  
- ✔️ Consider door-to-door outreach to assess whether customers face network issues, affordability concerns, or lack awareness about available plans.
+✔️ Consider door-to-door outreach to assess whether customers face network issues, affordability concerns, or lack awareness about available plans.
  
- ✔️ Develop customized internet packages for non-internet users to encourage service adoption and reduce churn.
+✔️ Develop customized internet packages for non-internet users to encourage service adoption and reduce churn.
+
+✔️ Simplify the payment process to encourage automatic payments.
+
 
 ### 2️⃣ Churn Predictions Dashboard
 This dashboard identifies at-risk customers using predictive analytics to help telecom companies take preventive measures.
@@ -88,13 +91,6 @@ This dashboard identifies at-risk customers using predictive analytics to help t
 
 ![Image](https://github.com/user-attachments/assets/d396d750-673e-4116-b4d6-a445d1542ca1)
 
-
-## 💡 Suggestions for Reducing Churn
-✔️ Offer discounts or loyalty rewards for long-term contracts.
-✔️ Improve service quality for customers in high-churn states.
-✔️ Provide incentives for referrals and customer retention.
-✔️ Target high-risk customers with personalized retention campaigns.
-✔️ Simplify the payment process to encourage automatic payments.
 
 ## 🛠 Tools Used
 Power BI – Data visualization and dashboard creation
