@@ -2,6 +2,14 @@
 ## 📌 Project Overview
 This Power BI project analyzes telecom customer churn to identify key factors influencing customer retention and predict high-risk customers. The analysis is divided into two dashboards: Churn Summary and Churn Predictions, offering insights into customer demographics, service usage, and predictive churn modeling.
 
+## ❓ Business Questions Answered
+1. What are the key demographic factors influencing churn?
+2. How does contract type affect churn rates?
+3. Which services contribute most to customer retention or churn?
+4. Are there specific states with higher churn rates?
+5. What customer profile is most at risk of churning?
+6. How can the company reduce churn through targeted interventions?
+
 ## 📂 Dashboards
 ### 1️⃣ Churn Summary Dashboard
 This dashboard provides an overview of churn trends, customer demographics, and account-related factors affecting churn.
@@ -36,6 +44,12 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 
 ![Image](https://github.com/user-attachments/assets/31f9deb0-3bc1-4818-885b-62ee9b58f098)
 
+## 🔍 Key Business Insights
+1. Customers with month-to-month contracts have the highest churn rate.
+2. Online payment methods show higher churn rates compared to traditional methods.
+3. Customers with longer tenure periods(> 24 moths) have higher churn rate.
+4. Geographic trends show some states have significantly higher churn rates.
+
 ### 2️⃣ Churn Predictions Dashboard
 This dashboard identifies at-risk customers using predictive analytics to help telecom companies take preventive measures.
 
@@ -56,19 +70,8 @@ This dashboard identifies at-risk customers using predictive analytics to help t
   State
 
 ![Image](https://github.com/user-attachments/assets/d396d750-673e-4116-b4d6-a445d1542ca1)
-## 🔍 Key Business Insights
-Customers with month-to-month contracts have the highest churn rate.
-Online payment methods show higher churn rates compared to traditional methods.
-Customers with shorter tenure periods are more likely to leave.
-Service bundles (e.g., internet + streaming) reduce churn probability.
-Geographic trends show some states have significantly higher churn rates.
-## ❓ Business Questions Answered
-1. What are the key demographic factors influencing churn?
-2. How does contract type affect churn rates?
-3. Which services contribute most to customer retention or churn?
-4. Are there specific states with higher churn rates?
-5. What customer profile is most at risk of churning?
-6. How can the company reduce churn through targeted interventions?
+
+
 ## 💡 Suggestions for Reducing Churn
 ✔️ Offer discounts or loyalty rewards for long-term contracts.
 ✔️ Improve service quality for customers in high-churn states.
