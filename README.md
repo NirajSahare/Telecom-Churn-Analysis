@@ -1,6 +1,6 @@
 # 📊 Telecom Churn Analysis Dashboard
 ## 📌 Project Overview
-This Power BI project analyzes telecom customer churn to identify key factors influencing customer retention and predict high-risk customers. The analysis is divided into two dashboards: Churn Summary and Churn Predictions, offering insights into customer demographics, service usage, and predictive churn modeling.
+This Power BI Telecom Churn Analysis project helps identify key factors influencing customer retention and predicts high-risk customers. It utilizes MySQL, Power BI, and Machine Learning to explore customer behavior, analyze churn patterns, and uncover risk factors. The analysis is divided into two dashboards: Churn Summary and Churn Predictions, providing insights into customer demographics, service usage, and predictive churn modeling. By understanding why customers leave, telecom providers can enhance customer experience, optimize service plans, and implement targeted retention strategies to reduce churn and improve profitability.
 
 ## ❓ Business Questions Answered
 1. What are the key demographic factors influencing churn?
