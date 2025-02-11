@@ -56,20 +56,6 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 9. Customers with "None" as their internet type have the highest churn rate, especially in Jammu & Kashmir.
 10. **64.8%** of churned women in Jammu & Kashmir do not have an internet plan, suggesting dissatisfaction with available services or a lack of suitable options.
 
-## 💡 Suggestions for Reducing Churn:
-✔️ Introduce special loyalty offers or renewal discounts for female customers nearing 24 months of tenure.
- 
-✔️ Develop targeted retention programs for customers over 65, possibly by improving customer service and offering personalized plans.
- 
-✔️ Investigate and conduct a survey the high churn rate in Jammu & Kashmir—potential issues like network quality, pricing, or service disruptions could be driving customers away.
- 
-✔️ Consider door-to-door outreach to assess whether customers face network issues, affordability concerns, or lack awareness about available plans.
- 
-✔️ Develop customized internet packages for non-internet users to encourage service adoption and reduce churn.
-
-✔️ Simplify the payment process to encourage automatic payments.
-
-
 ### 2️⃣ Churn Predictions Dashboard
 This dashboard identifies at-risk customers using predictive analytics to help telecom companies take preventive measures.
 
@@ -82,12 +68,33 @@ This dashboard identifies at-risk customers using predictive analytics to help t
 
 1. Gender distribution of predicted churners
 2. Churn probability by:
-  Age group
-  Marital status
-  Tenure group
-  Payment method
-  Contract type
-  State
+   a. Age group
+   b. Marital status
+   c. Tenure group
+   d. Payment method
+   e. Contract type
+   f. State
+
+## 🔍 Key Business Insights Based on Predicted Churner Profile
+
+1. Customers with a **month-to-month contract** show the highest churn rate, totaling **352 customers**, which accounts for **95% of overall churned customers**.  
+2. **Credit card holders** represent the largest group of churned customers, with a total of **181**.  
+3. The states with the highest churn rates are **Maharashtra, Uttar Pradesh, and Tamil Nadu**.  
+4. Customers in the **tenure group of over 24 months**, particularly those aged **35-51**, exhibit the highest churn rate.
+
+## 💡 Suggestions for Reducing Churn:
+✔️ Introduce special loyalty offers or renewal discounts for female customers and credit card holders nearing 24 months of tenure.
+ 
+✔️ Develop targeted retention programs for customers over 65, possibly by improving customer service and offering personalized plans.
+ 
+✔️ Investigate and conduct a survey the high churn rate in **Jammu & Kashmir**, **Maharashtra, Uttar Pradesh, and Tamil Nadu**—potential issues like network quality, pricing, or service disruptions could be driving customers away.
+ 
+✔️ Consider door-to-door outreach to assess whether customers face network issues, affordability concerns, or lack awareness about available plans.
+ 
+✔️ Develop customized internet packages for non-internet users to encourage service adoption and reduce churn.
+
+✔️ Simplify the payment process to encourage automatic payments.
+
 
 ![Image](https://github.com/user-attachments/assets/176969ac-b636-46ac-8fcc-077dc5980463)
 
