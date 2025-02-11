@@ -74,6 +74,8 @@ This dashboard identifies at-risk customers using predictive analytics to help t
    d. Payment method
    e. Contract type
    f. State
+![Image](https://github.com/user-attachments/assets/176969ac-b636-46ac-8fcc-077dc5980463)
+
 
 ## 🔍 Key Business Insights Based on Predicted Churner Profile
 
@@ -97,8 +99,6 @@ This dashboard identifies at-risk customers using predictive analytics to help t
 
 ✔️ Simplify the payment process to encourage automatic payments.
 
-
-![Image](https://github.com/user-attachments/assets/176969ac-b636-46ac-8fcc-077dc5980463)
 
 ## 🛠 Tools Used
 1. Power BI – Data visualization and dashboard creation
