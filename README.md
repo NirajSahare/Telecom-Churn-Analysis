@@ -42,7 +42,7 @@ This dashboard provides an overview of churn trends, customer demographics, and 
 2. Churn by additional services (e.g., streaming, phone service, etc.)
    
 
-![Image](https://github.com/user-attachments/assets/31f9deb0-3bc1-4818-885b-62ee9b58f098)
+![Image](https://github.com/user-attachments/assets/dabfdf51-1c61-44c9-835e-d7cdfa581d42)
 
 ## 🔍 Key Business Insights
 1. Customers with **month-to-month contracts** have the highest churn rate.
