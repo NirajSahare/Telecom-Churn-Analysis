@@ -74,7 +74,7 @@ This dashboard identifies at-risk customers using predictive analytics to help t
    d. Payment method
    e. Contract type
    f. State
-![Image](https://github.com/user-attachments/assets/176969ac-b636-46ac-8fcc-077dc5980463)
+![Image](https://github.com/user-attachments/assets/160bc0af-e555-4e25-b763-c9a6bdec017c)
 
 
 ## 🔍 Key Business Insights Based on Predicted Churner Profile
